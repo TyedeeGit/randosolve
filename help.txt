@@ -1,0 +1,8 @@
+multiply <integer:rownumber> <rational:factor>
+add <integer:original_rownumber> <integer:addend_rownumber> <rational:factor>
+swap <integer:rownumber1> <integer:rownumber2>
+normalize <integer:rownumber>
+get_factor <rational:starting_number> <rational:final_number>
+solve
+undo
+quit
